@@ -1,3 +1,14 @@
+# Data Analyst
+
+### Education
+
+## Work Experience
+
+## Projects
+one 
+three
+four
+
 - 👋 Hi, my name is Tulsi Shrivastava. I'm currently a graduate student at George Mason University, with a passion for visual storytelling and social data analytics.
 - 👀 I’m interested in...
 - 🌱 I’m currently learning 
